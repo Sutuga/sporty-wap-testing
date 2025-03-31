@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+        User find and open streamer page
+        ","7108","Search channel by text","tests","Mon Mar 31 17:35:32 CEST 2025","passed","Mon Mar 31 17:35:39 CEST 2025","TestSearchSuite","test_search_suite","",""
